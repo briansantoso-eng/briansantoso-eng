@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Brian Santoso
 
-<!--
-**briansantoso-eng/briansantoso-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data science and analytics professional with a focus on supply chain, logistics, and machine learning.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, R, SQL
+- **ML & Statistics:** scikit-learn, XGBoost, Prophet, ARIMA, anomaly detection
+- **Visualisation:** Power BI, matplotlib, ggplot2
+- **Tools:** VS Code, Git, Jupyter
+
+## Featured Project
+
+### [Supply Chain Demand Forecasting & Anomaly Detection](https://github.com/briansantoso-eng/supply-chain-ml)
+
+End-to-end ML project on real logistics data:
+- Demand forecasting with Random Forest, XGBoost, and Prophet
+- Anomaly detection using Isolation Forest, Z-Score, IQR, and DBSCAN
+- Statistical validation in R (ARIMA, stationarity tests, correlation analysis)
+- Interactive Power BI dashboard across 3 report pages
+
+**Results:** Random Forest and XGBoost achieved R² of 0.99 | 67 anomalies detected (43% rate)
+
+## Connect
+
+- LinkedIn: [brian-santoso](https://www.linkedin.com/in/brian-santoso/)
+- GitHub: [briansantoso-eng](https://github.com/briansantoso-eng)
