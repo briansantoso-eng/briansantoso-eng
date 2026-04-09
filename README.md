@@ -9,7 +9,15 @@ Data science and analytics professional with a focus on supply chain, logistics,
 - **Visualisation:** Power BI, matplotlib, ggplot2
 - **Tools:** VS Code, Git, Jupyter
 
-## Featured Project
+## Featured Projects
+
+### [CloudDocs RAG System](https://github.com/briansantoso-eng/MLRAGProject)
+
+RAG pipeline built on real AWS, Azure, and GCP documentation:
+- Document ingestion, chunking, and vector search with ChromaDB
+- Local embeddings via SentenceTransformers (free, no API cost)
+- Grounded answers powered by Groq Llama 3
+- Live Streamlit app: [mlragproject-e58tnq5unou9vsmswy4wrz.streamlit.app](https://mlragproject-e58tnq5unou9vsmswy4wrz.streamlit.app/)
 
 ### [Supply Chain Demand Forecasting & Anomaly Detection](https://github.com/briansantoso-eng/supply-chain-ml)
 
