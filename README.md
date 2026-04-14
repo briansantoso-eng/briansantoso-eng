@@ -9,7 +9,7 @@ Data science and analytics professional with a focus on supply chain, logistics,
 - **Visualisation:** Power BI, matplotlib, ggplot2
 - **Tools:** VS Code, Git, Jupyter
 
-## Featured Projects
+## Featured Personal Projects
 
 ### [CloudDocs RAG System](https://github.com/briansantoso-eng/MLRAGProject)
 
@@ -28,6 +28,15 @@ End-to-end ML project on real logistics data:
 - Interactive Power BI dashboard across 3 report pages
 
 **Results:** Random Forest and XGBoost achieved R² of 0.99 | 67 anomalies detected (43% rate)
+
+## Organisational Projects
+
+### [AI Agent for Team Setups](https://github.com/briansantoso-eng/Organization---AI-Agent-for-Team-Setups)
+
+AI-powered skill that analyses team composition and recommends optimal team setups for software delivery:
+- Profiles engineers by release group, workflow, and routing rules
+- Pulls live registry data to inform team structure recommendations
+- Designed for supply chain and logistics delivery organisations
 
 ## Connect
 
