@@ -1,6 +1,6 @@
 # Hi, I'm Brian Santoso
 
-Data science and analytics professional with a focus on supply chain, logistics, and machine learning.
+I'm a Data Analytics Professional, specializing in AI Machine Learning Engineering.
 
 ## Skills
 
