@@ -30,6 +30,18 @@ End-to-end ML project on real logistics data:
 **Results:** Random Forest and XGBoost achieved R² of 0.99 | 67 anomalies detected (43% rate)
 
 ## Organisational Projects
+### 🛡️ [Data Governance and Remediation Playbooks](https://github.com/briansantoso-eng/data-governance-and-remediation-playbooks)
+*WiseTech Global — Data Governance Initiative*
+
+Designed governance standards and remediation playbooks for a large-scale enterprise
+workflow platform. **Authored the Process Task Standards (PTS)** rule set governing the
+platform's core process-task entity, and **built tooling to transform the platform's
+SQL schema into catalog-ready JSON** for ingestion into a data catalog (DataHub).
+Turns silent, costly data defects — stalled work, unfulfillable assignments — into
+defined, detectable, and remediable conditions, and lays the groundwork for automated
+remediation.
+
+`Data Governance` · `SQL` · `Data Modelling` · `DataHub` · `Process Design`
 
 ### [AI Agent for Team Setups](https://github.com/briansantoso-eng/Organization---AI-Agent-for-Team-Setups)
 
