@@ -1,56 +1,101 @@
-# Hi, I'm Brian Santoso
+# Brian Santoso
+### Data & AI Governance Professional · Sydney, NSW
 
-I'm a Data Analytics Professional, specializing in AI Machine Learning Engineering.
+> *I sit at the intersection that most candidates can't claim: enterprise data governance experience, hands-on ML engineering, and the regulatory literacy to make AI deployable in regulated industries.*
 
-## Skills
+I'm transitioning into AI Governance and ML Engineering roles where technical depth meets accountability — helping organisations adopt AI responsibly, at scale, without the compliance and data quality debt that slows most deployments down.
 
-- **Languages:** Python, R, SQL
-- **ML & Statistics:** scikit-learn, XGBoost, Prophet, ARIMA, anomaly detection
-- **Visualisation:** Power BI, matplotlib, ggplot2
-- **Tools:** VS Code, Git, Jupyter
+- 🎓 **Master of Data Science** | Graduate Certificate in Project Management
+- 🏢 4+ years in data governance, SQL, and data quality at enterprise scale (WiseTech Global)
+- 🤖 Hands-on experience with LLMs, RAG pipelines, and ML model development
+- 🛡️ Deepening expertise in **AI risk frameworks**, **ISO 42001**, and the **Australian AI Ethics Framework**
 
-## Featured Personal Projects
+---
 
-### [CloudDocs RAG System](https://github.com/briansantoso-eng/MLRAGProject)
+## What I Bring
 
-RAG pipeline built on real AWS, Azure, and GCP documentation:
-- Document ingestion, chunking, and vector search with ChromaDB
-- Local embeddings via SentenceTransformers (free, no API cost)
-- Grounded answers powered by Groq Llama 3
-- Live Streamlit app: [mlragproject-e58tnq5unou9vsmswy4wrz.streamlit.app](https://mlragproject-e58tnq5unou9vsmswy4wrz.streamlit.app/)
+| Capability | What it means in practice |
+|---|---|
+| **Data Governance** | I've authored enterprise-wide data standards, built remediation tooling, and modelled data quality rules at schema level — not just policy documents |
+| **ML Engineering** | End-to-end projects: RAG systems, demand forecasting, anomaly detection — deployed, not just notebooks |
+| **AI Governance Literacy** | Understand bias testing methodology, model cards, explainability, and the Privacy Act / APRA obligations shaping Australian AI deployment |
+| **Stakeholder Translation** | Project management background — can bridge ML teams and risk/compliance functions without losing either audience |
 
-### [Supply Chain Demand Forecasting & Anomaly Detection](https://github.com/briansantoso-eng/supply-chain-ml)
+---
 
-End-to-end ML project on real logistics data:
-- Demand forecasting with Random Forest, XGBoost, and Prophet
-- Anomaly detection using Isolation Forest, Z-Score, IQR, and DBSCAN
-- Statistical validation in R (ARIMA, stationarity tests, correlation analysis)
-- Interactive Power BI dashboard across 3 report pages
+## Featured Projects
 
-**Results:** Random Forest and XGBoost achieved R² of 0.99 | 67 anomalies detected (43% rate)
+### 📋 Product
 
-## Organisational Projects
-### 🛡️ [Data Governance and Remediation Playbooks](https://github.com/briansantoso-eng/data-governance-and-remediation-playbooks)
-*WiseTech Global — Data Governance Initiative*
+#### 🛡️ [Data Governance & Remediation Playbooks](https://github.com/briansantoso-eng/data-governance-and-remediation-playbooks)
+*WiseTech Global — Enterprise Data Governance Initiative*
 
-Designed governance standards and remediation playbooks for a large-scale enterprise
-workflow platform. **Authored the Process Task Standards (PTS)** rule set governing the
-platform's core process-task entity, and **built tooling to transform the platform's
-SQL schema into catalog-ready JSON** for ingestion into a data catalog (DataHub).
-Turns silent, costly data defects — stalled work, unfulfillable assignments — into
-defined, detectable, and remediable conditions, and lays the groundwork for automated
-remediation.
+Designed governance standards and remediation playbooks for a large-scale logistics platform. Authored the **Process Task Standards (PTS)** rule set governing core workflow entities, and built tooling to transform the platform's SQL schema into catalog-ready JSON for DataHub ingestion. Turns silent data defects — stalled work, unfulfillable assignments — into defined, detectable, and remediable conditions.
 
-`Data Governance` · `SQL` · `Data Modelling` · `DataHub` · `Process Design`
+`Data Governance` · `SQL` · `Data Modelling` · `DataHub` · `Process Design` · `Enterprise Scale`
 
-### [AI Agent for Team Setups](https://github.com/briansantoso-eng/Organization---AI-Agent-for-Team-Setups)
+#### 🧠 [AI Agent for Team Setups](https://github.com/briansantoso-eng/Organization---AI-Agent-for-Team-Setups)
+*WiseTech Global — Agentic AI Application*
 
-AI-powered skill that analyses team composition and recommends optimal team setups for software delivery:
-- Profiles engineers by release group, workflow, and routing rules
-- Pulls live registry data to inform team structure recommendations
-- Designed for supply chain and logistics delivery organisations
+AI-powered agent that analyses team composition and recommends optimal team structures for software delivery. Pulls live registry data to inform routing rules — a practical example of AI operating within defined governance constraints.
+
+`AI Agents` · `LLM` · `SQL` · `Logistics` · `Workflow Automation`
+
+---
+
+### ⚙️ Technical
+
+#### 🤖 [CloudDocs RAG System](https://github.com/briansantoso-eng/MLRAGProject)
+*Personal Project — Production LLM Application*
+
+RAG pipeline built on real AWS, Azure, and GCP documentation — demonstrating the kind of grounded, auditable AI output that governance teams need to trust before enterprise deployment.
+
+- Document ingestion, chunking, and vector search with **ChromaDB**
+- Local embeddings via **SentenceTransformers** (no external API dependency)
+- Grounded answers via **Groq Llama 3**
+- Live app: [mlragproject-e58tnq5unou9vsmswy4wrz.streamlit.app](https://mlragproject-e58tnq5unou9vsmswy4wrz.streamlit.app/)
+
+`RAG` · `LLM` · `ChromaDB` · `Streamlit` · `Python`
+
+#### 📦 [Supply Chain Demand Forecasting & Anomaly Detection](https://github.com/briansantoso-eng/supply-chain-ml)
+*Personal Project — End-to-End ML on Real Logistics Data*
+
+Full ML pipeline on real logistics data — combining forecasting, anomaly detection, statistical validation, and a Power BI dashboard. Built with data quality and interpretability in mind, not just model performance.
+
+- Forecasting: **Random Forest, XGBoost, Prophet** — R² of 0.99
+- Anomaly detection: **Isolation Forest, Z-Score, IQR, DBSCAN** — 67 anomalies detected (43% rate)
+- Statistical validation in **R** (ARIMA, stationarity tests)
+- Interactive **Power BI** dashboard across 3 report pages
+
+`Python` · `R` · `XGBoost` · `scikit-learn` · `Power BI` · `Supply Chain`
+
+---
+
+## Technical Skills
+
+**Languages:** Python · R · SQL (T-SQL, complex queries, schema design)
+
+**ML & Data Science:** scikit-learn · XGBoost · Prophet · ARIMA · Isolation Forest · DBSCAN · SentenceTransformers · ChromaDB
+
+**AI & LLM:** RAG pipelines · Groq · LLM evaluation · prompt engineering · vector search
+
+**Governance & Data Quality:** DataHub · data cataloguing · schema-to-JSON tooling · remediation frameworks · data lineage concepts
+
+**Visualisation & Reporting:** Power BI · matplotlib · ggplot2 · Streamlit
+
+**Tools:** Git · VS Code · Jupyter · SQL Server · JSON
+
+---
+
+## Currently
+
+- 🔬 Building an **AI bias audit** component into existing ML projects — model cards, fairness evaluation, documented risk assessments
+- 📖 Self-studying **ISO 42001** and the **Australian AI Ethics Framework** — the regulatory context Australian enterprises actually operate under
+- 🎯 Open to: AI Governance Specialist · Senior ML Engineer · AI/Data Platform roles in Sydney
+
+---
 
 ## Connect
 
-- LinkedIn: [brian-santoso](https://www.linkedin.com/in/brian-santoso/)
-- GitHub: [briansantoso-eng](https://github.com/briansantoso-eng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brian--santoso-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/brian-santoso/)
+[![GitHub](https://img.shields.io/badge/GitHub-briansantoso--eng-181717?style=flat&logo=github)](https://github.com/briansantoso-eng)
