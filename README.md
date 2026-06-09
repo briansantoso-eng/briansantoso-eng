@@ -45,6 +45,18 @@ AI-powered agent that analyses team composition and recommends optimal team stru
 
 ### ⚙️ Technical
 
+#### ⚖️ [AI Model Governance & Monitoring Pipeline](https://github.com/briansantoso-eng/ai-governance-pipeline)
+*Personal Project — End-to-End ML Governance*
+
+End-to-end pipeline where the governance layer is the deliverable, not the model. Trains a classifier, logs every prediction to SQL with full audit metadata, then checks for demographic bias and data drift — and the pipeline catches and records the model's fairness failure automatically rather than hiding it.
+
+- Immutable raw-data audit trail vs. version-controlled SQL feature engineering
+- Bias testing with **fairlearn** — flagged a 0.199 demographic-parity gap (FAIL) to a queryable `bias_flags` table
+- Data drift detection with **evidently** — caught a simulated population shift while correctly ignoring features that didn't move
+- Auto-generated **model card** with every metric pulled from SQL, never hardcoded
+
+`Python` · `SQL` · `scikit-learn` · `fairlearn` · `evidently` · `Model Cards` · `Bias Audit`
+
 #### 🤖 [CloudDocs RAG System](https://github.com/briansantoso-eng/MLRAGProject)
 *Personal Project — Production LLM Application*
 
