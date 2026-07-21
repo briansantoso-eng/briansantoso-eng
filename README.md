@@ -1,51 +1,87 @@
 # Brian Santoso
 
-**Data Architect** | Enterprise Data Platforms | Sydney
+**Technical Specialist** | Trade Compliance & SQL Architecture | Sydney
 
 ---
 
-## 📊 FreightDW Portfolio
+## 🎯 Who I Am
 
-### **[Enterprise Data Architecture](https://github.com/briansantoso-eng/briansantoso-eng)**
+Hands-on technical problem-solver at WiseTech Global with **rare combination of deep domain expertise + advanced technical skills**. 
 
-A production-grade data warehouse demonstrating enterprise-scale dimensional modeling, ETL governance, and data quality frameworks built from WiseTech Global experience.
+**I combine:**
+- Deep trade compliance & customs knowledge (55+ standardized terms, compliance workflows, regulatory requirements)
+- Advanced SQL/database architecture (SQL Server, query optimization, schema design)
+- CargoWise system expertise (database structure, workflow configuration, integration)
+- Pragmatic troubleshooting mindset (root cause analysis, systematic validation, creative solutions)
 
-**Key Patterns:**
-- Star schema design with SCD Type 1/2 strategies  
-- Multi-layer ETL architecture (staging → conformed → analytics)
-- Data quality validation at every layer (100% passing)
-- Strategic indexing for enterprise-scale queries
-- Complete architecture documentation with design trade-offs
-
-**Skills:**
-- **Dimensional Modeling** — Star schema, role-playing dimensions, SCD strategies
-- **ETL/Data Integration** — Staging tables, SCD Type 2 logic, incremental loads
-- **Data Quality** — Validation frameworks, quality scoring, automated checks
-- **Performance Optimization** — Indexing strategy, query tuning, scalability patterns
-- **Enterprise Architecture** — Multi-domain systems thinking, governance frameworks
-- **SQL/TSQL** — Complex queries, CTEs, window functions, production-grade patterns
+**Working Style:** Detail-oriented. Direct solutions over standard workflows. Insist on code quality and documentation.
 
 ---
 
-## 💼 Experience
+## 📊 Technical Skills
 
-**WiseTech Global** — Data infrastructure for enterprise-scale logistics platform  
-Supporting 80+ business units | Regulated financial services data | Multi-region operations
+**Database & SQL (Advanced)**
+- SQL Server (T-SQL) — Advanced query writing, optimization, schema design
+- Query optimization — Index usage, execution plans, subquery-based filtering patterns
+- Data modeling — Table design, relationships, integrity constraints
+- Database administration — Windows authentication, CORP domain, permissions, login troubleshooting
 
-**Expertise:**
-- Enterprise data architecture at scale
-- EDI/API integration patterns
-- Data governance & compliance frameworks
-- Production data warehouse design and optimization
+**Data Architecture**
+- ETL & data integration — Extract, transform, load; registry mapping
+- Database auditing — Systematic validation of data consistency across large datasets
+- Performance tuning — Query optimization, index strategy, scalability patterns
+- **[FreightDW Portfolio](https://github.com/briansantoso-eng/briansantoso-eng)** — Production-grade dimensional modeling, SCD strategies, data quality frameworks
+
+**CargoWise & Compliance Systems**
+- ediProd database — Deep familiarity with production database structure, tables, permissions
+- Workflow configuration — Task templates, completion triggers, UDF field expressions
+- Trade compliance — Customs terminology, compliance workflows, regulatory mapping
+- Registry management — Incident routing, criticality mapping, compliance incident workflows
+
+**Programming & System Tools**
+- Python — Data processing (openpyxl, structured data generation)
+- Excel/VBA — Advanced features, data modeling, reference file creation
+- Git/Version control — Collaborative development
+- System administration — Windows auth, domain management, system troubleshooting
+
+---
+
+## 💼 Experience at WiseTech Global
+
+**Technical Specialist** — Trade Compliance & Database Systems
+
+- Designed and executed **ICO → IAS restructuring** — Major transformation moving compliance responsibilities across systems
+- Built **registry comparison frameworks** — Before/after analysis, module mapping, criticality assessment (CR1–CR9 structures)
+- **CargoWise database optimization** — Query tuning, performance analysis, system integration
+- **Configuration management** — Complex multi-step configuration audits (W1–W8 Completion Trigger Actions)
+- **Data validation** — Systematic database audits, syntax checking across large production datasets
+
+**Rare expertise:** Technical depth PLUS domain knowledge in trade compliance, customs systems, and regulatory workflows
+
+---
+
+## 🛠️ What Drives Me
+
+✅ **Precision** — Exact formatting, proper documentation, STEP 1/STEP 2 methodology  
+✅ **System thinking** — Understanding workflows, dependencies, and integration points  
+✅ **Domain expertise** — Rare combination of technical + compliance knowledge  
+✅ **Self-directed** — Independent troubleshooting, systematic problem-solving  
+✅ **Mentoring** — Teaching SQL fundamentals and career guidance  
 
 ---
 
 ## 🎯 Seeking
 
-**Senior Data Architect** | **Lead Data Engineer** | **Principal Solution Architect**
+**Roles:**
+- Senior Data Architect
+- Lead Data Engineer  
+- Principal Solution Architect
+- Technical Lead (Database/Compliance Systems)
 
-Enterprise data platforms. Architecture leadership. Production-grade systems.
+**Where:** Enterprise scale. Technical depth. Systems that matter.
 
 ---
 
 **Email:** brian.santoso@wisetechglobal.com | **Sydney, Australia**
+
+*Technical specialist with rare combination of advanced SQL architecture + deep trade compliance expertise.*
