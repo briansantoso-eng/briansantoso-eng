@@ -21,7 +21,7 @@ Advanced SQL engineer with deep trade compliance & customs domain expertise. Han
 
 ---
 
-## **[Data Architect Portfolio](https://github.com/briansantoso-eng/briansantoso-eng)**
+## **[Data Architect Portfolio](https://github.com/briansantoso-eng/FreightDW-Portfolio)**
 
 **FreightDW: Enterprise Data Warehouse**
 
