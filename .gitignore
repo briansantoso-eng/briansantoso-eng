@@ -1,0 +1,33 @@
+# SQL Server
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+*.sql.backup
+
+# IDE
+.vs/
+.vscode/
+*.code-workspace
+*.suo
+*.user
+*.userprefs
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Temp files
+*.tmp
+*.temp
+~*
+
+# Build artifacts
+bin/
+obj/
+
+# Local config (if any)
+local_config.json
+secrets.json
