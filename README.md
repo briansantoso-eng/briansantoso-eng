@@ -1,75 +1,51 @@
 # Brian Santoso
 
-**Data Architect | Enterprise Data Platforms | Sydney**
+**Data Architect** | Enterprise Data Platforms | Sydney
 
 ---
 
-## 📊 Data Architecture Portfolio
+## 📊 FreightDW Portfolio
 
-### **[FreightDW: Enterprise Data Warehouse](https://github.com/briansantoso-eng/briansantoso-eng)**
+### **[Enterprise Data Architecture](https://github.com/briansantoso-eng/briansantoso-eng)**
 
-A production-grade SQL Server data warehouse demonstrating enterprise-scale dimensional modeling, ETL/SCD strategies, performance optimization, and data quality validation.
+A production-grade data warehouse demonstrating enterprise-scale dimensional modeling, ETL governance, and data quality frameworks built from WiseTech Global experience.
 
-**Key Achievements:**
-- ✅ Star schema design with SCD Type 1/2 strategies
-- ✅ 6 strategic indexes for enterprise-scale analytics
-- ✅ 18 production-ready KPI queries
-- ✅ 100% data quality validation
-- ✅ Complete architecture documentation
+**Key Patterns:**
+- Star schema design with SCD Type 1/2 strategies  
+- Multi-layer ETL architecture (staging → conformed → analytics)
+- Data quality validation at every layer (100% passing)
+- Strategic indexing for enterprise-scale queries
+- Complete architecture documentation with design trade-offs
 
-**Skills Demonstrated:**
-- Dimensional modeling (star schema, role-playing dimensions)
-- ETL/SCD implementation & data quality frameworks
-- Performance optimization & indexing strategy
-- Enterprise data governance & standards
-- Architecture documentation with design trade-offs
-
-**View the project:** See the SQL files, documentation, and architecture decisions in this repository.
-
----
-
-## 💼 Background
-
-**Data Architect with 10+ years enterprise experience:**
-- Designed data infrastructure supporting 80+ business units at WiseTech Global
-- Enterprise integration patterns (EDI, APIs, cloud platforms)
-- Data governance frameworks for regulated financial services
-- Scalability strategies for 10B+ row datasets
+**Skills:**
+- **Dimensional Modeling** — Star schema, role-playing dimensions, SCD strategies
+- **ETL/Data Integration** — Staging tables, SCD Type 2 logic, incremental loads
+- **Data Quality** — Validation frameworks, quality scoring, automated checks
+- **Performance Optimization** — Indexing strategy, query tuning, scalability patterns
+- **Enterprise Architecture** — Multi-domain systems thinking, governance frameworks
+- **SQL/TSQL** — Complex queries, CTEs, window functions, production-grade patterns
 
 ---
 
-## 🎯 Expertise
+## 💼 Experience
 
-| Area | Evidence |
-|------|----------|
-| **Dimensional Modeling** | Star schema, SCD Type 1/2, role-playing dimensions |
-| **ETL Development** | Staging tables, SCD logic, incremental load patterns |
-| **Performance Tuning** | Index strategy, execution plans, query optimization |
-| **Data Quality** | Validation framework, quality metrics, automated checks |
-| **SQL** | CTEs, window functions, complex joins, TSQL |
-| **Analytics** | 18 business KPI queries, production-ready reporting |
-| **Architecture** | Design decisions, trade-offs, scalability planning |
-| **Governance** | Data quality standards, documentation, best practices |
+**WiseTech Global** — Data infrastructure for enterprise-scale logistics platform  
+Supporting 80+ business units | Regulated financial services data | Multi-region operations
+
+**Expertise:**
+- Enterprise data architecture at scale
+- EDI/API integration patterns
+- Data governance & compliance frameworks
+- Production data warehouse design and optimization
 
 ---
 
-## 📈 Current Focus
+## 🎯 Seeking
 
-Building enterprise data platforms that enable:
-- Scalable analytics and reporting
-- Data-driven decision making
-- Governance-first architecture
-- Production-grade quality
+**Senior Data Architect** | **Lead Data Engineer** | **Principal Solution Architect**
 
-**Open to:** Senior Data Architect, Lead Data Engineer, Principal Solution Architect roles
+Enterprise data platforms. Architecture leadership. Production-grade systems.
 
 ---
 
-## 📞 Get in Touch
-
-**Email:** brian.santoso@wisetechglobal.com  
-**Location:** Sydney, Australia
-
----
-
-*Enterprise data architecture portfolio — Production-grade patterns, documented thinking.*
+**Email:** brian.santoso@wisetechglobal.com | **Sydney, Australia**
