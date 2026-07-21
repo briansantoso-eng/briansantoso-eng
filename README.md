@@ -1,6 +1,6 @@
 # Brian Santoso
 
-**Technical Specialist** | SQL Architecture & Trade Compliance | Sydney
+**Data Solutions Architect** | SQL Architecture & Trade Compliance | Sydney
 
 ---
 
@@ -42,4 +42,4 @@ Star schema dimensional model with production-grade patterns:
 
 ---
 
-**Email:** brian.santoso@wisetechglobal.com | **Sydney, Australia**
+**Email:** brian.santosoeng@gmail.com | **Sydney, Australia**
