@@ -6,7 +6,7 @@
 
 ## 📊 Data Architecture Portfolio
 
-### **FreightDW: Enterprise Data Warehouse**
+### **[FreightDW: Enterprise Data Warehouse](https://github.com/briansantoso-eng/briansantoso-eng)**
 
 A production-grade SQL Server data warehouse demonstrating enterprise-scale dimensional modeling, ETL/SCD strategies, performance optimization, and data quality validation.
 
