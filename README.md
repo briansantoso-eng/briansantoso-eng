@@ -18,25 +18,7 @@ Advanced SQL engineer with deep trade compliance & customs domain expertise. Han
 - **CargoWise Workflows** — Task configuration, completion triggers, UDF field expressions
 - **Data Validation** — Systematic audits, syntax checks across production datasets
 - **Trade Compliance** — Mapped 55+ customs terms, compliance workflows, regulatory requirements
-
----
-
-## **[Schematic Claude Skills](https://github.com/briansantoso-wtg/Schematic-Claude-Skills)**
-
-AI-powered Claude skills for automating registry analysis, incident management, and implementation planning at WiseTech Global.
-
-**Skills Suite:**
-- **Criteria Library Lookup** — Live SQL queries for product hierarchies (CR1-7, CR8, CR9), modules, WKI, WKP, INC from ediprodSQL
-- **Registry Change Designer** — Intelligent parsing of change requests, generates professional before/after registry comparisons in Excel
-- **Registry Change Designer Integrated** — Complete workflow combining Designer with Criteria Library for end-to-end registry modifications
-
-**What it solves:**
-- Automates registry change documentation with live current state
-- Parses natural language change requests (e.g., "Create modules in DCM area")
-- Supports WKI (Work Items), WKP (Projects), INC (Incidents) across all criticalities
-- Generates color-coded Excel comparisons (current vs proposed) instantly
-
-**Technical highlights:** T-SQL parameterized queries, XML-based hierarchy parsing, intelligent change tracking, multi-entity transactions
+- **[Schematic Claude Skills](https://github.com/briansantoso-wtg/Schematic-Claude-Skills)** — AI-powered Claude skills for automating registry analysis, incident management, and implementation planning. Features: Criteria Library Lookup (live SQL queries), Registry Change Designer (before/after comparisons), Registry Designer Integrated (complete workflows). Supports WKI, WKP, INC across CR1-7, CR8, CR9 with intelligent parsing and color-coded Excel generation.
 
 ---
 
