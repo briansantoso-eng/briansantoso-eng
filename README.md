@@ -10,7 +10,9 @@ Advanced SQL engineer with deep trade compliance & customs domain expertise. Han
 
 ---
 
-## **[Schematic Claude Skills](https://github.com/briansantoso-wtg/Schematic-Claude-Skills)** (WiseTech Global)
+## WiseTech Global
+
+### **[Schematic Claude Skills](https://github.com/briansantoso-wtg/Schematic-Claude-Skills)**
 
 AI-powered Claude skills for automating registry analysis, incident management, and implementation planning at WiseTech Global.
 
@@ -25,7 +27,9 @@ AI-powered Claude skills for automating registry analysis, incident management, 
 
 ---
 
-## **[Data Architect Portfolio](https://github.com/briansantoso-eng/FreightDW-Portfolio)**
+## Personal Projects
+
+### **[Data Architect Portfolio](https://github.com/briansantoso-eng/FreightDW-Portfolio)**
 
 **FreightDW: Enterprise Data Warehouse**
 
