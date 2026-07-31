@@ -10,18 +10,7 @@ Advanced SQL engineer with deep trade compliance & customs domain expertise. Han
 
 ---
 
-## WiseTech Global Contributions
-
-- **ICO → IAS Restructuring** — Led major transformation moving compliance responsibilities across systems
-- **Registry Frameworks** — Designed before/after registry analysis, module mapping, criticality assessment (CR1–CR9)
-- **Database Optimization** — Query tuning, performance analysis, ediProd system integration
-- **CargoWise Workflows** — Task configuration, completion triggers, UDF field expressions
-- **Data Validation** — Systematic audits, syntax checks across production datasets
-- **Trade Compliance** — Mapped 55+ customs terms, compliance workflows, regulatory requirements
-
----
-
-## **[Schematic Claude Skills](https://github.com/briansantoso-wtg/Schematic-Claude-Skills)**
+## **[Schematic Claude Skills](https://github.com/briansantoso-wtg/Schematic-Claude-Skills)** (WiseTech Global)
 
 AI-powered Claude skills for automating registry analysis, incident management, and implementation planning at WiseTech Global.
 
