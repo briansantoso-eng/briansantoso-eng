@@ -10,20 +10,22 @@ Advanced SQL engineer with deep trade compliance & customs domain expertise. Han
 
 ---
 
-## WiseTech Global
+## Professional Work
 
-### **[Schematic Claude Skills](https://github.com/briansantoso-wtg/Schematic-Claude-Skills)**
+### **[Schematic Claude Skills](https://github.com/briansantoso-eng/schematic-claude-skills)**
 
-AI-powered Claude skills for automating registry analysis, incident management, and implementation planning at WiseTech Global.
+A suite of Claude Code skills that turns a large, inheritance-driven reference database into plain-English lookups — and generates the Excel change requests a governance process actually accepts.
 
 **Skills Suite:**
-- **Criteria Library Lookup** — Live SQL queries for product hierarchies (CR1-7, CR8, CR9), modules, WKI, WKP, INC from ediprodSQL
-- **Registry Change Designer** — Intelligent parsing of change requests, generates professional before/after registry comparisons in Excel
-- **Registry Change Designer Integrated** — Complete workflow combining Designer with Criteria Library for end-to-end registry modifications
+- **Criteria Library** — live lookups across product hierarchies, areas, modules and valid configurations
+- **Registry Change Designer** — parses a change request, resolves inheritance, generates a before/after Excel comparison
+- **Release Group Routing** — routing lookups, plus impact analysis before a code is retired
 
-**What it solves:** Automates registry change documentation with live current state | Parses natural language change requests | Supports WKI, WKP, INC across all criticalities | Generates color-coded Excel comparisons instantly
+**What it solves:** Documents registry changes against live current state | Parses natural-language change requests | Refuses to generate a sheet when a code collides or a row needs a human decision | Surfaces the inheritance cases that quietly cost 4× the expected effort
 
-**Technical highlights:** T-SQL parameterized queries | XML-based hierarchy parsing | Intelligent change tracking | Multi-entity transactions
+**Technical highlights:** Parameterised T-SQL | XML hierarchy parsing | Single-source-of-truth reference doc, no hard-coded domain values | Generated Excel deliverables
+
+*Public write-up of the architecture and design decisions; the implementation is internal.*
 
 ---
 
@@ -46,7 +48,7 @@ Star schema dimensional model with production-grade patterns:
 
 ## Tech Stack
 
-**Database:** SQL Server (T-SQL) | **Query Patterns:** Advanced optimization, subqueries, window functions | **Tools:** SSMS, Python, Excel, Git | **Systems:** CargoWise, ediProd
+**Database:** SQL Server (T-SQL) | **Query Patterns:** Advanced optimization, subqueries, window functions | **Tools:** SSMS, Python, Excel, Git | **Domain:** CargoWise, customs & trade compliance
 
 ---
 
