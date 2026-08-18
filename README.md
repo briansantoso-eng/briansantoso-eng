@@ -1,12 +1,12 @@
 # Brian Santoso
 
-**Data Solutions Architect** | SQL Architecture & Trade Compliance | Sydney
+**AI Automation Specialist & Consultant** | Sydney
 
 ---
 
 ## About Me
 
-Advanced SQL engineer with deep trade compliance & customs domain expertise. Hands-on problem-solver. Detail-oriented. Prefer direct solutions over standard workflows.
+Design workflows for logistics at scale. Hands-on problem-solver. Detail-oriented. Prefer direct solutions over standard workflows.
 
 ---
 
@@ -31,6 +31,18 @@ A suite of Claude Code skills that turns a large, inheritance-driven reference d
 
 ## Personal Projects
 
+### **[Automated Visa Form Routing System](https://github.com/briansantoso-eng/visa-form-automation)**
+
+**Event-driven email automation with conditional routing**
+
+Zero-code workflow that classifies inbound inquiries and auto-replies with the correct application form:
+- Branch routing on subject line via parallel Paths, not sequential filters
+- Dynamic recipient mapping — replies to any sender, no allowlist to maintain
+- Unmatched subjects halt cleanly; concurrent senders run in full isolation
+- Diagnosed a silent routing bug where a failed Filter halted the whole run instead of skipping a branch
+
+**Skills:** Workflow automation | Event-driven design | Conditional routing | Gmail integration | Systematic debugging
+
 ### **[Data Architect Portfolio](https://github.com/briansantoso-eng/FreightDW-Portfolio)**
 
 **FreightDW: Enterprise Data Warehouse**
@@ -43,18 +55,6 @@ Star schema dimensional model with production-grade patterns:
 - 18 analytics KPIs
 
 **Skills:** Advanced SQL | Data modeling | ETL/SCD | Query optimization | Database architecture | Data quality frameworks
-
-### **[Automated Visa Form Routing System](https://github.com/briansantoso-eng/visa-form-automation)**
-
-**Event-driven email automation with conditional routing**
-
-Zero-code workflow that classifies inbound inquiries and auto-replies with the correct application form:
-- Branch routing on subject line via parallel Paths, not sequential filters
-- Dynamic recipient mapping — replies to any sender, no allowlist to maintain
-- Unmatched subjects halt cleanly; concurrent senders run in full isolation
-- Diagnosed a silent routing bug where a failed Filter halted the whole run instead of skipping a branch
-
-**Skills:** Workflow automation | Event-driven design | Conditional routing | Gmail integration | Systematic debugging
 
 ---
 
