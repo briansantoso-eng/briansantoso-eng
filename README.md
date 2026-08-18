@@ -14,7 +14,7 @@ Design workflows for logistics at scale. Hands-on problem-solver. Detail-oriente
 
 ### **[Schematic Claude Skills](https://github.com/briansantoso-eng/schematic-claude-skills)**
 
-A suite of Claude Code skills that turns a large, inheritance-driven reference database into plain-English lookups — and generates the Excel change requests a governance process actually accepts.
+A suite of **Claude Code agent skills** that turns a large, inheritance-driven reference database into plain-English lookups — and generates the Excel change requests a governance process actually accepts. The hard part was less the SQL than scoping what the agent is allowed to decide on its own.
 
 **Skills Suite:**
 - **Criteria Library** — live lookups across product hierarchies, areas, modules and valid configurations
@@ -60,7 +60,13 @@ Star schema dimensional model with production-grade patterns:
 
 ## Tech Stack
 
-**Database:** SQL Server (T-SQL) | **Query Patterns:** Advanced optimization, subqueries, window functions | **Tools:** SSMS, Python, Excel, Git | **Domain:** CargoWise, customs & trade compliance
+**Automation & AI** — Claude Code skill development · Zapier (Paths, Filters, multi-step orchestration) · Gmail API · Event-driven workflow design · Conditional branch routing · Natural-language request parsing
+
+**Data & SQL** — SQL Server (T-SQL) · Dimensional modelling (star schema, SCD Type 1/2) · Multi-layer ETL · Query optimisation (window functions, indexing) · XML hierarchy parsing · Data quality validation
+
+**Tools** — Python · SSMS · Excel (generated deliverables) · Git
+
+**Domain** — Logistics & freight forwarding · Customs & trade compliance · CargoWise
 
 ---
 
