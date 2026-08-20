@@ -33,18 +33,19 @@ A suite of **Claude Code agent skills** that turns a large, inheritance-driven r
 
 ### **[POS Reconciliation & Receipt Automation — Claude API](https://github.com/briansantoso-eng/receipt-expense-automation)**
 
-**Claude API document extraction with a validation layer that doesn't trust the model**
+**Receipts arrive by email. A bookkeeping spreadsheet comes back. Nobody types anything.**
 
-A client forwards receipts to an inbox; a categorised spreadsheet and a review digest come back, unattended:
-- Typed schema enforced by the API — no text to parse, and extraction bugs get fixed in a field *description* rather than the prompt
-- Model reads, code decides — arithmetic, GST ratios, date sanity and duplicate detection all validated in Python before a number reaches anyone's books
-- Three-state routing (`ok` / `check` / `needs_review`) so only exceptions reach a human; clean rows are never opened
-- Billing gate ahead of the API call — an unpaid client's receipts are stored, never extracted, and cost nothing
-- Requests bounded by bytes as well as count, since ten 4 MB phone photos exceed the 32 MB request limit
-- Verified on real receipts — crumpled, photographed sideways, one legitimately GST-free — 6/6 correct on every total, tax and date; 73 offline tests run with no API key
-- Reverted an image-downscaling optimisation after measuring it: 40% cheaper, but a crumpled receipt's date read as June instead of September while the totals stayed correct
+A client forwards photos of their receipts. Once a week it reads them, checks them, and emails me a summary with the spreadsheet attached:
+- **Claude reads the picture; Python checks the sums.** The model never does arithmetic, so if it misreads a total the code catches it before it reaches a spreadsheet
+- **Only problems reach a human.** Clean receipts go straight through — anything doubtful is flagged with the reason why, so I only look at the ones that need me
+- **It won't run for a client who hasn't paid.** Their receipts are saved but never read, so they cost nothing
+- **Nothing goes to a client automatically.** I get the draft, I check it, I send it
+- **Tested on real receipts** — crumpled, photographed sideways, one food-stained, one with no GST — all six correct on every total, tax and date
+- **Tried making it 40% cheaper by shrinking the photos.** It started reading dates wrong while the totals stayed right, so I measured it properly and undid it
 
-Decisions, concerns and the two reverted optimisations are recorded in [DECISIONS.md](https://github.com/briansantoso-eng/receipt-expense-automation/blob/main/DECISIONS.md).
+A second pipeline in the same repo handles the POS side: a client emails a sales export and their bank deposit figure, and it explains any gap in plain English.
+
+How each decision was reached, including the two ideas I measured and threw away, is in [DECISIONS.md](https://github.com/briansantoso-eng/receipt-expense-automation/blob/main/DECISIONS.md).
 
 **Skills:** Claude API (structured outputs, vision, batched requests) | Schema design as prompt engineering | Deterministic validation of model output | Exception routing | IMAP/SMTP | Scheduled unattended execution
 
