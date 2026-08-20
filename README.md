@@ -31,7 +31,7 @@ A suite of **Claude Code agent skills** that turns a large, inheritance-driven r
 
 ## Personal Projects
 
-### **Receipt & Expense Automation**
+### **[Receipt & Expense Automation](https://github.com/briansantoso-eng/receipt-expense-automation)**
 
 **Scheduled document extraction with a validation layer that doesn't trust the model**
 
