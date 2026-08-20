@@ -31,9 +31,9 @@ A suite of **Claude Code agent skills** that turns a large, inheritance-driven r
 
 ## Personal Projects
 
-### **[Receipt & Expense Automation](https://github.com/briansantoso-eng/receipt-expense-automation)**
+### **[POS Reconciliation & Receipt Automation — Claude API](https://github.com/briansantoso-eng/receipt-expense-automation)**
 
-**Scheduled document extraction with a validation layer that doesn't trust the model**
+**Claude API document extraction with a validation layer that doesn't trust the model**
 
 A client forwards receipts to an inbox; a categorised spreadsheet and a review digest come back, unattended:
 - Typed schema enforced by the API — no text to parse, and extraction bugs get fixed in a field *description* rather than the prompt
@@ -43,6 +43,8 @@ A client forwards receipts to an inbox; a categorised spreadsheet and a review d
 - Requests bounded by bytes as well as count, since ten 4 MB phone photos exceed the 32 MB request limit
 - Verified on real receipts — crumpled, photographed sideways, one legitimately GST-free — 6/6 correct on every total, tax and date; 73 offline tests run with no API key
 - Reverted an image-downscaling optimisation after measuring it: 40% cheaper, but a crumpled receipt's date read as June instead of September while the totals stayed correct
+
+Decisions, concerns and the two reverted optimisations are recorded in [DECISIONS.md](https://github.com/briansantoso-eng/receipt-expense-automation/blob/main/DECISIONS.md).
 
 **Skills:** Claude API (structured outputs, vision, batched requests) | Schema design as prompt engineering | Deterministic validation of model output | Exception routing | IMAP/SMTP | Scheduled unattended execution
 
